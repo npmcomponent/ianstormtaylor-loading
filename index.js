@@ -1,5 +1,5 @@
 
-var classes = require('classes');
+var classes = require('component-classes');
 
 
 /**

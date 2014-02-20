@@ -1,0 +1,14 @@
+{
+  "name": "ianstormtaylor-loading",
+  "description": "A simple way to toggle loading state.",
+  "version": "0.1.0",
+  "keywords": [
+    "loading",
+    "class",
+    "element"
+  ],
+  "dependencies": {
+    "component-classes": "git://github.com/npmcomponent/component-classes.git"
+  },
+  "license": "MIT"
+}
